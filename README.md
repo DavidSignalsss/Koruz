@@ -35,4 +35,4 @@
 
 ### Project Structure
 
-<div align="center"> <br> <em>Built with passion for music production</em> <br> <sub>Using the incredible JUCE framework</sub> </div> EOF ```
+<div align="center"> <br> <em>Built with passion for music production</em> <br> <sub>Using the incredible JUCE framework</sub> </div> 
