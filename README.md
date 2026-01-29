@@ -56,7 +56,6 @@ Koruz/
 
 ### Building from Source
 
-```bash
 # Clone the repository
 git clone https://github.com/davidsignals/koruz.git
 cd koruz
